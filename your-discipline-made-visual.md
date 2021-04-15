@@ -1,5 +1,10 @@
+### Your (Inter)Discipline Made Visual
+---
+
 ![visual.png](visual.png)
-***
+
+---
+
 Hey everyone, 
 
 In last week's discussion board post, I wrote about Khoury College's many combined majors. As such, for today's post, I have created an infographic showing just how many there are (35!). The breakdown is 3 combined Cybersecurity majors, 10 combined Data Science majors, and 22 combined Computer Science majors. As a reference, I used https://www.khoury.northeastern.edu/programs/. As such, there seemed to be no overlap with the Bouvé College of Health Sciences, but there is some contradiction with the the course catalog. For example, Health Sciences appears under the College of Science. The infographic isn't the prettiest, and looking back at it I should have had every combined major be a circle color-coded to its college but it's already pretty late, and I have the excuse of not being a design major. 

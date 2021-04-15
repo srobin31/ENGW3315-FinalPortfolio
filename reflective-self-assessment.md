@@ -1,3 +1,6 @@
+### Reflective Self-Assessment
+---
+
 Hi everyone,
 
 I dread writing. This point was something I addressed in an earlier reflection, and unfortunately, nothing has changed. Last week was incredible, and I was extremely grateful for the week off from writing. However, as the course moves towards its end, I hope that I can fight through my unwillingness to simply write more. While I believe that each time I write, I do write a fair amount, I simply have not yet gone beyond the required amount of writing to warrant an A in this class according to the grading contract. To keep this from boiling down to "I haven’t done all of the extras yet, so I am at a B, but I plan to write more!" that Ellen included in her Week 8 letter, I'll take this chance to respond to some of the questions included.
