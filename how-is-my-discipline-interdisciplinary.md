@@ -1,4 +1,4 @@
-### How Is Your Discipline Interdisciplinary?
+### How Is My Discipline Interdisciplinary?
 ---
 Hey everyone,
 

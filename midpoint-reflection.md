@@ -1,4 +1,4 @@
-### Reflective Self-Assessment
+### Midpoint Reflection
 ---
 
 Hi everyone,

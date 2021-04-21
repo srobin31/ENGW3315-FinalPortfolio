@@ -1,4 +1,4 @@
-### Your (Inter)Discipline Made Visual
+### My (Inter)Discipline Made Visual
 ---
 
 ![visual.png](visual.png)

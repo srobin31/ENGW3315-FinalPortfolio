@@ -1,4 +1,4 @@
-### Reflection (2)
+### Unlearning to Learn
 ---
 
 As I have for almost every one of my discussion board posts, I will be writing to my experiences of unlearning to learn as it relates to my background as a programmer. The first thing that comes to mind is how different learning how to code can be compared to a typical classroom learning experience, especially in middle and high school. I first started programming in my freshman year of high school. Up until then, I think it's a fairly common mentality to not just go to Google for questions or solutions. Whether it's answering questions based directly on textbook readings, math problems that can be reasoned out, or memorized formulas, Google was not the go-to platform coming out of grade school that it is now. Google Search, and more specifically StackOverflow, is a programmer's best friend. Such behavior of Googling any and all questions is also completely expected in the work place.

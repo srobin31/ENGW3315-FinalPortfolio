@@ -3,10 +3,10 @@ import wordcloud as wc
 import matplotlib.pyplot as plt
 
 files = [
-    'how-is-your-discipline-interdisciplinary',
-    'reflection2',
-    'your-discipline-made-visual',
-    'reflective-self-assessment'
+    'how-is-my-discipline-interdisciplinary',
+    'my-discipline-made-visual',
+    'unlearning-to-learn',
+    'midpoint-reflection'
 ]
 
 def clean_text(text):
